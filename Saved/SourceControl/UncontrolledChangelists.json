@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/luisa/Codigo/Tutoriales/ObstacleAssault/Content/Main.umap",
+				"C:/Users/luisa/Codigo/Tutoriales/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/luisa/Codigo/Tutoriales/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
